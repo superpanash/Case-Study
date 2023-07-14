@@ -112,3 +112,13 @@
    font-size:22px;
    border-radius: 30px;  
 }
+
+.copy_right_footer{
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    position:fixed;
+    width:100%;
+    text-align: center;
+    line-height: 2;
+    bottom: 0;
+   }
